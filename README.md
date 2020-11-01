@@ -1,7 +1,7 @@
 
 ### Usage:
 ```
-git clone https://github.com/x3rz/blackeye.git
+git clone https://github.com/jasanpreetn9/Blackeye.git
 cd blackeye
 bash blackeye.sh
 ./ngrok authtoken <your_auth_token>
